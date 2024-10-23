@@ -1,0 +1,13 @@
+.box {
+    width: 2080px;
+    height: 5848px;
+  }
+  
+  .box .website {
+    position: fixed;
+    width: 2080px;
+    height: 5848px;
+    top: 0;
+    left: 0;
+  }
+  
